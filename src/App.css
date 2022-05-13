@@ -24,10 +24,6 @@
   color: rgb(117, 159, 197);
 }
 
-.App-link {
-  color: #94b5be;
-}
-
 .App-table {
   display:flex;
   border: 2px solid black;
@@ -35,6 +31,7 @@
   border-color: rgb(175, 179, 207);
   border-radius: 10px;
 }
+
 
 .App-table div {
   border-right: 2px solid white;
@@ -45,12 +42,21 @@
 .Facebook-Social-Logo {
   display:flex;
   justify-content: right;
+  flex-direction: row;
 }
 
-.Instagram-Social-logo {
-  display: flex;
-  justify-content: right;
+.Roses-Image {
+  display:flex;
+  justify-content:left
 }
+
+.Apple-Roses {
+  display:flex;
+  color:#768383;
+  font-size:small;
+  justify-content:right;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
