@@ -12,6 +12,7 @@ function App() {
             <div> <a href="https://www.instagram.com/dolcementebaking/"> Photoes</a> </div>
             <div> <a href="https://dolcementebaking.wixsite.com/dolcemente/about-me"> About me</a> </div>
         </nav>
+      </header>
         <a
           className="App-link"
           href="https://dolcementebaking.wixsite.com/dolcemente/food-from-around-the-world"
@@ -19,9 +20,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Recipes
-        </a> <div
-        App classname="Roses-Image"> <img src="roses.png" alt="roses image" width="300" height="300"/>
-        <div classname="Apple-Roses"><h2> Apple Roses </h2>
+        </a> <div className="Roses-Image"> <img src="roses.png" alt="roses image" width="300" height="300"/>
+        <div className="Apple-Roses"><h2> Apple Roses </h2>
         <p> These are super easy, but they are super nice to taste and to look! Why not trying? </p>
         <u> Ingredients</u>
         <li> 2 apples </li>
@@ -32,7 +32,6 @@ function App() {
         <li>2 tsp cinnamon</li>
         <li>1 lemon juice</li>
         </div></div>
-      </header>
       <div className="Facebook-Social-Logo">
         <a href="https://www.facebook.com/dolcementebaking/">
         <img class="lazy" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" data-original="https://mpng.subpng.com/20180420/dye/kisspng-social-media-computer-icons-facebook-media-icon-5ad99bd52a6ec2.1244941515242106451738.jpg" title="Social Media Logo" alt="Social Media Logo - transparent png image" width="150" height="100"/>
