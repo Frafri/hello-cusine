@@ -1,0 +1,13 @@
+.Facebook-Social-Logo {
+    display:flex;
+    justify-content: flex-end;
+    flex-direction: row;
+  }
+
+  .Author {
+    color: rgb(59, 80, 128);
+  justify-self: right;
+  font-size: 20px;
+  text-decoration: none;
+  padding-right: 10px;
+  }
