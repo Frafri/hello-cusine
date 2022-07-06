@@ -1,0 +1,36 @@
+.Roses-Image {
+    display:flex;
+    justify-content:center;
+    padding-left: 10px;
+    margin-bottom: 40px;
+
+  }
+
+  .Apple-Roses {
+    color: rgb(59, 80, 128);
+    border-style:double;
+    border-color: rgb(59, 80, 128);
+    border-radius: 20px;
+    margin-left: 15px;
+    padding-left: 10px;
+    margin-bottom: 20px ;
+    padding-right: 10px;
+  }
+
+  .Creme {
+    display:flex;
+    justify-content:center;
+    padding-left: 10px;
+    margin-bottom: 40px;
+  }
+
+  .Cremebrule {
+    color: rgb(59, 80, 128);
+    border-style:double;
+    border-color: rgb(59, 80, 128);
+    border-radius: 20px;
+    margin-left: 15px;
+    padding-left: 10px;
+    margin-bottom: 20px ;
+    padding-right: 10px;
+  }
