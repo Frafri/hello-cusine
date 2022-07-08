@@ -1,36 +1,9 @@
-.Roses-Image {
-    display:flex;
-    justify-content:center;
-    padding-left: 10px;
-    margin-bottom: 40px;
 
-  }
-
-  .Apple-Roses {
-    color: rgb(59, 80, 128);
-    border-style:double;
-    border-color: rgb(59, 80, 128);
-    border-radius: 20px;
-    margin-left: 15px;
-    padding-left: 10px;
-    margin-bottom: 20px ;
-    padding-right: 10px;
-  }
-
-  .Creme {
-    display:flex;
-    justify-content:center;
-    padding-left: 10px;
-    margin-bottom: 40px;
-  }
-
-  .Cremebrule {
-    color: rgb(59, 80, 128);
-    border-style:double;
-    border-color: rgb(59, 80, 128);
-    border-radius: 20px;
-    margin-left: 15px;
-    padding-left: 10px;
-    margin-bottom: 20px ;
-    padding-right: 10px;
-  }
+.Ads {
+    background-color: #f7f7f7;
+    display:list-item;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(117, 159, 197); }
